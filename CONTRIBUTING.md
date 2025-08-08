@@ -15,7 +15,7 @@ Before you can contribute, you'll need to set up your local environment.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[your_username]/articulate.git
+    git clone https://github.com/Haidarly2/articulate.git
     cd articulate
     ```
 
